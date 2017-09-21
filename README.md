@@ -1,2 +1,1 @@
-"# Presentations from MSP RoadShow 2017" 
-
+# Presentations from MSP RoadShow 2017
